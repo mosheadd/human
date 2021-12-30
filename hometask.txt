@@ -2,11 +2,13 @@
 Коммитов 11 (перечисление идёт с начального до конечного):
 1.init
 2 heat added
-3.README added
-4.dots
-5.fix readme
-6.Merge remote-tracking branch 'upstream/boots' into boots_buttons
-7.Merge remote-tracking branch 'origin/buttons' into boots_buttons
-8.Merge remote-tracking branch 'upstream/hat'
-9.Merge branch 'boots_buttons'
-10.Create hometask.txt
+3.boots
+4.README added
+5.dots
+6.fix readme
+7.Merge remote-tracking branch 'upstream/boots' into boots_buttons
+8.Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9.Merge remote-tracking branch 'upstream/hat'
+10.Merge branch 'boots_buttons'
+11.Create hometask.txt
+12.Update hometask.txt
